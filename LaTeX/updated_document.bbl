@@ -1,0 +1,254 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{springdamper_source}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=c555e1a734cdd2bcc26d6565b8106123}{%
+           family={Engineering},
+           familyi={E\bibinitperiod},
+           given={Racecar},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{c555e1a734cdd2bcc26d6565b8106123}
+      \strng{fullhash}{c555e1a734cdd2bcc26d6565b8106123}
+      \strng{bibnamehash}{c555e1a734cdd2bcc26d6565b8106123}
+      \strng{authorbibnamehash}{c555e1a734cdd2bcc26d6565b8106123}
+      \strng{authornamehash}{c555e1a734cdd2bcc26d6565b8106123}
+      \strng{authorfullhash}{c555e1a734cdd2bcc26d6565b8106123}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Springs and Dampers}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://www.racecar-engineering.com/tech-explained/springs-and-dampers/
+      \endverb
+      \verb{url}
+      \verb https://www.racecar-engineering.com/tech-explained/springs-and-dampers/
+      \endverb
+    \endentry
+    \entry{molle_industriali_source}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=b8add0a7828e630d812eb7ac29101355}{%
+           family={Industriali},
+           familyi={I\bibinitperiod},
+           given={Molle},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{b8add0a7828e630d812eb7ac29101355}
+      \strng{fullhash}{b8add0a7828e630d812eb7ac29101355}
+      \strng{bibnamehash}{b8add0a7828e630d812eb7ac29101355}
+      \strng{authorbibnamehash}{b8add0a7828e630d812eb7ac29101355}
+      \strng{authornamehash}{b8add0a7828e630d812eb7ac29101355}
+      \strng{authorfullhash}{b8add0a7828e630d812eb7ac29101355}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Molle Industriali}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.molle-industriali.it/
+      \endverb
+      \verb{url}
+      \verb https://www.molle-industriali.it/
+      \endverb
+    \endentry
+    \entry{rockerbogie_source}{misc}{}
+      \name{author}{3}{}{%
+        {{hash=d673263c9b85a196a4016f32f6064810}{%
+           family={Jimenez},
+           familyi={J\bibinitperiod},
+           given={Adolfo},
+           giveni={A\bibinitperiod}}}%
+        {{hash=291e41fa9f1cd5d2e931fd27f850a399}{%
+           family={Smallwood},
+           familyi={S\bibinitperiod},
+           given={Jordan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=826ad00c7883be971c97058edf2fb1b4}{%
+           family={Garcia},
+           familyi={G\bibinitperiod},
+           given={Miguel},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{0830e5568fa8b8c08462cfc7e53675c7}
+      \strng{fullhash}{0830e5568fa8b8c08462cfc7e53675c7}
+      \strng{bibnamehash}{0830e5568fa8b8c08462cfc7e53675c7}
+      \strng{authorbibnamehash}{0830e5568fa8b8c08462cfc7e53675c7}
+      \strng{authornamehash}{0830e5568fa8b8c08462cfc7e53675c7}
+      \strng{authorfullhash}{0830e5568fa8b8c08462cfc7e53675c7}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Rocker-Bogie Suspension System}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://www.arxterra.com/rocker-bogie-suspension-system/
+      \endverb
+      \verb{url}
+      \verb https://www.arxterra.com/rocker-bogie-suspension-system/
+      \endverb
+    \endentry
+    \entry{github_repository}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=f47c9d873459ffc8a2c405fd0665111e}{%
+           family={Paradiso},
+           familyi={P\bibinitperiod},
+           given={Francesco\bibnamedelima Pio},
+           giveni={F\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{f47c9d873459ffc8a2c405fd0665111e}
+      \strng{fullhash}{f47c9d873459ffc8a2c405fd0665111e}
+      \strng{bibnamehash}{f47c9d873459ffc8a2c405fd0665111e}
+      \strng{authorbibnamehash}{f47c9d873459ffc8a2c405fd0665111e}
+      \strng{authornamehash}{f47c9d873459ffc8a2c405fd0665111e}
+      \strng{authorfullhash}{f47c9d873459ffc8a2c405fd0665111e}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{AMR Suspension Design}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://github.com/francescopioparadiso/Low-cost-heavy-duty-AMR
+      \endverb
+      \verb{url}
+      \verb https://github.com/francescopioparadiso/Low-cost-heavy-duty-AMR
+      \endverb
+    \endentry
+    \entry{articulated_source}{misc}{}
+      \name{author}{2}{}{%
+        {{hash=b9b5777ee61829340fbab57077f54c2e}{%
+           family={Reid},
+           familyi={R\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod}}}%
+        {{hash=b4d2597d0aba9a4b72ff2bc18cb13494}{%
+           family={Pérez-Grau},
+           familyi={P\bibinithyphendelim G\bibinitperiod},
+           given={Arnau},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{702da5cb89473d14875d2d27acc1b753}
+      \strng{fullhash}{702da5cb89473d14875d2d27acc1b753}
+      \strng{bibnamehash}{702da5cb89473d14875d2d27acc1b753}
+      \strng{authorbibnamehash}{702da5cb89473d14875d2d27acc1b753}
+      \strng{authornamehash}{702da5cb89473d14875d2d27acc1b753}
+      \strng{authorfullhash}{702da5cb89473d14875d2d27acc1b753}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Actively Articulated Suspension for a Wheel-on-Leg Robot}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://www.semanticscholar.org/paper/Actively-articulated-suspension-for-a-wheel-on-leg-Reid-Pérez-Grau/9e65ec93b65cfda8ea5f73180371cd64dadaa77c/
+      \endverb
+      \verb{url}
+      \verb https://www.semanticscholar.org/paper/Actively-articulated-suspension-for-a-wheel-on-leg-Reid-P%C3%A9rez-Grau/9e65ec93b65cfda8ea5f73180371cd64dadaa77c/
+      \endverb
+    \endentry
+    \entry{differential_source}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=666000735391d8203ddc55c1aa85c7cf}{%
+           family={Rodshop},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{666000735391d8203ddc55c1aa85c7cf}
+      \strng{fullhash}{666000735391d8203ddc55c1aa85c7cf}
+      \strng{bibnamehash}{666000735391d8203ddc55c1aa85c7cf}
+      \strng{authorbibnamehash}{666000735391d8203ddc55c1aa85c7cf}
+      \strng{authornamehash}{666000735391d8203ddc55c1aa85c7cf}
+      \strng{authorfullhash}{666000735391d8203ddc55c1aa85c7cf}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{9" Diff with 4-Link Rear Suspension for XE Fords}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.rodshop.com.au/9-diff-with-4-link-rear-suspension-for-xe-fords/
+      \endverb
+      \verb{url}
+      \verb https://www.rodshop.com.au/9-diff-with-4-link-rear-suspension-for-xe-fords/
+      \endverb
+    \endentry
+    \entry{multilink_source}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=485857bc6c24cf2f116b08f57d929164}{%
+           family={Track},
+           familyi={T\bibinitperiod},
+           given={Road\bibnamedelima \&},
+           giveni={R\bibinitperiod\bibinitdelim \\bibinitperiod}}}%
+      }
+      \strng{namehash}{485857bc6c24cf2f116b08f57d929164}
+      \strng{fullhash}{485857bc6c24cf2f116b08f57d929164}
+      \strng{bibnamehash}{485857bc6c24cf2f116b08f57d929164}
+      \strng{authorbibnamehash}{485857bc6c24cf2f116b08f57d929164}
+      \strng{authornamehash}{485857bc6c24cf2f116b08f57d929164}
+      \strng{authorfullhash}{485857bc6c24cf2f116b08f57d929164}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Multi-Link Suspension Explained}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.roadandtrack.com/car-culture/a42676486/multi-link-suspension-explained/
+      \endverb
+      \verb{url}
+      \verb https://www.roadandtrack.com/car-culture/a42676486/multi-link-suspension-explained/
+      \endverb
+    \endentry
+    \entry{leafspring_source}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=4f0656d14872248c64d8a85e951fa77d}{%
+           family={User},
+           familyi={U\bibinitperiod},
+           given={Reddit},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{4f0656d14872248c64d8a85e951fa77d}
+      \strng{fullhash}{4f0656d14872248c64d8a85e951fa77d}
+      \strng{bibnamehash}{4f0656d14872248c64d8a85e951fa77d}
+      \strng{authorbibnamehash}{4f0656d14872248c64d8a85e951fa77d}
+      \strng{authornamehash}{4f0656d14872248c64d8a85e951fa77d}
+      \strng{authorfullhash}{4f0656d14872248c64d8a85e951fa77d}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{How does the leaf-spring suspension account for...?}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.reddit.com/r/MechanicalEngineering/comments/vddypo/how_does_the_leafspring_suspension_account_for/
+      \endverb
+      \verb{url}
+      \verb https://www.reddit.com/r/MechanicalEngineering/comments/vddypo/how_does_the_leafspring_suspension_account_for/
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

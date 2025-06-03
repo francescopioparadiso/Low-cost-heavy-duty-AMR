@@ -1,0 +1,22 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {1}Background and Literature Review}{9}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Types of Suspension Systems in Robotics}{9}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Vehicle-Inspired Suspension Designs}{10}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Existing AMR Suspension Solutions}{10}{subsection.1.3}%
+\contentsline {section}{\numberline {2}Concept Development}{11}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Design Constraints}{11}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Trade-off Analysis}{12}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Spring Component}{14}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}CAD Model Overview}{15}{subsection.2.4}%
+\contentsline {section}{\numberline {3}Analysis}{19}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Material Selection}{19}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Static Load Analysis}{20}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Admissible Stress}{20}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Maximum Stress}{21}{subsubsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.3}Fatigue Analysis}{22}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}Admissible Stress}{22}{subsubsection.3.3.1}%
+\contentsline {subsubsection}{\numberline {3.3.2}Maximum Stress}{23}{subsubsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.4}FEM Simulations and ZEBRA Analysis}{24}{subsection.3.4}%
+\contentsline {section}{\numberline {4}Conclusion and Future Work}{27}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Summary of Findings}{27}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Outlook and Recommendations}{27}{subsection.4.2}%
